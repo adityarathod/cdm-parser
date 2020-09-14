@@ -1,4 +1,4 @@
-<p align="center"><h1>CDM Parser (WIP)</h1></p>
+<h1 align="center">CDM Parser (WIP)</h1>
 
 A parser for public chargemaster data provided by hospitals.
 
